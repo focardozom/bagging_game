@@ -1,1 +1,1 @@
-# bagging_game
+# Aggregation and Boosting Game
